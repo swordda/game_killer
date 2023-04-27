@@ -1,0 +1,14 @@
+D:\程序\text\Windows Services\bin\Debug\Windows Services.exe.config
+D:\程序\text\Windows Services\bin\Debug\Windows Services.exe
+D:\程序\text\Windows Services\bin\Debug\Windows Services.pdb
+D:\程序\text\Windows Services\obj\Debug\Windows_Services.Form1.resources
+D:\程序\text\Windows Services\obj\Debug\Windows_Services.Properties.Resources.resources
+D:\程序\text\Windows Services\obj\Debug\Windows Services.csproj.GenerateResource.cache
+D:\程序\text\Windows Services\obj\Debug\Windows Services.csproj.CoreCompileInputs.cache
+D:\程序\text\Windows Services\obj\Debug\Windows Services.exe
+D:\程序\text\Windows Services\obj\Debug\Windows Services.pdb
+D:\程序\text\Windows Services\bin\Debug\Windows Services.exe.manifest
+D:\程序\text\Windows Services\bin\Debug\Windows Services.application
+D:\程序\text\Windows Services\obj\Debug\Windows Services.exe.manifest
+D:\程序\text\Windows Services\obj\Debug\Windows Services.application
+D:\程序\text\Windows Services\obj\Debug\Windows Services.csprojAssemblyReference.cache
